@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>GitHub Pages 与 Hexo 搭建个人独立博客</title>
+      <link href="/2018/10/15/GitHub%20Pages%20%E4%B8%8E%20Hexo%20%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2018/10/15/GitHub%20Pages%20%E4%B8%8E%20Hexo%20%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<p>关于一个前端小白，如何利用GitHub Pages与 Hexo 如何创建属于自己的个人博客，记录生活的点点滴滴！</p><a id="more"></a><h1 id="开始的啰嗦"><a href="#开始的啰嗦" class="headerlink" title="开始的啰嗦"></a>开始的啰嗦</h1><p>由于我是一个java后端码农，其实对于node.js 与 hexo都比较陌生。在一次逛GitHub的机会发现了一篇搭建个人博客的文章，于是自己觉得挺有意思的，随后开始了我的博客搭建之路。</p><p>由于百度上相关的文章比较多，因此我就不再详细的说明如何一步步搭建了，我只将我参考的相关文章链接贴出来，只是给大家提供一个参考，同时在此感谢下面几位文章的原创者，文章给了我很大的帮助。</p><h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><p>入门级：《<a href="http://cyzus.github.io/2015/06/21/github-build-blog/" target="_blank" rel="noopener">傻瓜都可以利用github pages建博客</a>》比较适合不懂编程的人员</p><p>困难级：《<a href="https://segmentfault.com/a/1190000004947261" target="_blank" rel="noopener">手把手教你使用Hexo + Github Pages搭建个人独立博客</a>》 比较适合具有编程经验的人员</p><p>我个人是上面的两种方式都尝试了，个人觉得第二种方式比较好，但是比较麻烦，特别对于不懂编程知识的人来说可能需要点时间去慢慢填坑（ps：也许我比较菜，反正遇到了不少坑）。</p><h1 id="遇到的问题"><a href="#遇到的问题" class="headerlink" title="遇到的问题"></a>遇到的问题</h1><p>在执行”npm install”命令时报错，我百度了很久，最终看到《    <a href="https://blog.csdn.net/qq_32068809/article/details/79513618" target="_blank" rel="noopener">npm install 报错解决</a>》才解决问题。</p><p>然后在定制博客主题时参考了《<a href="http://moxfive.coding.me/" target="_blank" rel="noopener">个人博客站点建设历程</a>》这位博主的相关博客，从里面获益不少，在此感谢！</p><h1 id="最后的啰嗦"><a href="#最后的啰嗦" class="headerlink" title="最后的啰嗦"></a>最后的啰嗦</h1><p>由于目前Disqus评论系统在国内无法访问，虽然我找了一些相关的文章阅读了一下，但是最终还是放弃了集成评论系统，因为很多东西并不是我擅长的。后期如果机会再集成进来吧！</p><p>我就啰嗦这么多了，其它的等我想起来在啰嗦吧！当然了，如果你在构建个人博客的过程中有什么不明白的可以与我联系，我们共同学习进步！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> GitHub </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>静静的看着我拙劣的表演</title>
+      <link href="/2018/10/15/%E9%9D%99%E9%9D%99%E7%9A%84%E7%9C%8B%E7%9D%80%E6%88%91%E6%8B%99%E5%8A%A3%E7%9A%84%E8%A1%A8%E6%BC%94/"/>
+      <url>/2018/10/15/%E9%9D%99%E9%9D%99%E7%9A%84%E7%9C%8B%E7%9D%80%E6%88%91%E6%8B%99%E5%8A%A3%E7%9A%84%E8%A1%A8%E6%BC%94/</url>
+      
+        <content type="html"><![CDATA[<p>创建博客以后的第一篇博客，希望后面的我能保持创建博客的初心，坚持下去！</p><a id="more"></a><p>以后每周至少更新一篇博客，不管是记录学习的技术，还是记录乏味的生活！</p><p>相信未来的每一天都是美好的，即使未来充满了未知！</p><p>啦啦啦德玛西亚  湖人总冠军 </p><p>是不是暴露了什么</p><p>溜了溜了溜了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hello world </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
+</search>
